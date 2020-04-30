@@ -1,0 +1,8 @@
+print("Enter the number = ")
+a=int(input())
+print("Enter the number = ")
+b=int(input())
+print("Addition = ",a+b)
+print("Addition = ",a-b)
+print("Addition = ",a*b)
+print("Addition = ",a/b)
